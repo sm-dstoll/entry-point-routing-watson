@@ -25,3 +25,5 @@ Please see comments on the following lines of the `DPChat.js` file:
 * 218
 
 Please note that this demo implementation is based on our provided custom UI framework. There may be some slight differences to your own implementation, however the general steps should remain consistent.
+
+In Watson, you will need to ensure each inital message generated using this method is mapped to a corresponding node in dialog management.
