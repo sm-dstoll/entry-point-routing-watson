@@ -1,4 +1,4 @@
-# Entry point routing for Watson Assistant
+# Entry point routing for Custom UI
 
 Using Soul Machines custom UI framework, it is possible to programmatically update the initial message sent by the Digital Person based on a query string on the URL. The files contained in this repo originally appear in the `src/routes` directory of the custom UI template.
 
